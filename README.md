@@ -55,7 +55,7 @@ pip install pandas sqlalchemy kagglehub
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/yourusername/SQL_Practice.git](https://github.com/yourusername/SQL_Practice.git)
+    git clone https://github.com/arun8nov/SQL_Practice.git
     ```
 2.  Navigate to the directory and launch Jupyter Lab/Notebook.
 3.  Run the notebook cells sequentially.
