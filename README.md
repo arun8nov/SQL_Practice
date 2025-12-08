@@ -1,10 +1,3 @@
-Here is a comprehensive, ready-to-use **README.md** file for your project. I have structured it to be welcoming to beginners while highlighting the professional "theory-meets-practice" approach of your notebook.
-
-You can copy and paste the code block below directly into a file named `README.md`.
-
------
-
-
 # 🚀 SQL Practice & Mastery: E-Commerce Data Edition
 
 Welcome to the **SQL Practice Notebook**! This project is designed for anyone looking to sharpen their SQL skills—from absolute beginners to those wanting to practice complex joins and data analysis on real-world datasets.
